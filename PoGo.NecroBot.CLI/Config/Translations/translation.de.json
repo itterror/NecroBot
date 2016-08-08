@@ -27,7 +27,7 @@
     },
     {
       "Key": "farmPokestopsNoUsableFound",
-      "Value": "Keine nutzbaren Pokéstops in deiner Gegend gefunden. Ist die maximale Distanz zu klein?"
+      "Value": "Keine nutzbaren Pokéstops in deiner Gegend gefunden. Ist die maximale Distanz zu klein eingestellt?"
     },
     {
       "Key": "eventFortUsed",
@@ -127,7 +127,7 @@
     },
     {
       "Key": "welcomeWarning",
-      "Value": "Gehe sicher, dass Lat & Lng richtig sind. Schließe das Programm falls nicht! Lat: {0} Lng: {1}"
+      "Value": "Gehe sicher, dass Lat. & Lng. richtig sind. Schließe das Programm falls nicht! Lat: {0} Lng: {1}"
     },
     {
       "Key": "incubatorPuttingEgg",
@@ -211,11 +211,11 @@
     },
     {
       "Key": "realisticTravelDetected",
-      "Value": "Realistische Bewegung gefunden. Benutze UserSettings.settings"
+      "Value": "Die Entfernung zu deinem letzten Standort ist realistisch. Benutze UserSettings.settings"
     },
     {
       "Key": "notRealisticTravel",
-      "Value": "Keine realistische Bewegung bei {0}, benutze zuletzt gespeicherte Daten aus LastPos.ini"
+      "Value": "Die Entfernung zu deinem letzten Standort ist zu groß: {0}, benutze zuletzt gespeicherte Daten aus LastPos.ini"
     },
     {
       "Key": "coordinatesAreInvalid",
@@ -1124,11 +1124,11 @@
     },
     {
       "Key": "bite",
-      "Value": "Bite"
+      "Value": "Biss"
     },
     {
       "Key": "pound",
-      "Value": "Pound"
+      "Value": "Pfund"
     },
     {
       "Key": "doubleSlap",
@@ -1140,7 +1140,7 @@
     },
     {
       "Key": "hyperBeam",
-      "Value": "HyperBeam"
+      "Value": "Hyperstrahl"
     },
     {
       "Key": "lick",
@@ -1180,7 +1180,7 @@
     },
     {
       "Key": "flamethrower",
-      "Value": "Flamethrower"
+      "Value": "Flammenwurf"
     },
     {
       "Key": "suckerPunch",
@@ -1188,7 +1188,7 @@
     },
     {
       "Key": "dig",
-      "Value": "Dig"
+      "Value": "Schaufler"
     },
     {
       "Key": "lowKick",
@@ -1208,7 +1208,7 @@
     },
     {
       "Key": "earthquake",
-      "Value": "Earthquake"
+      "Value": "Erdbeben"
     },
     {
       "Key": "stoneEdge",
@@ -1264,7 +1264,7 @@
     },
     {
       "Key": "aerialAce",
-      "Value": "AerialAce"
+      "Value": "Aero-Ass"
     },
     {
       "Key": "drillRun",
@@ -1296,7 +1296,7 @@
     },
     {
       "Key": "bubbleBeam",
-      "Value": "BubbleBeam"
+      "Value": "Blubbstrahl"
     },
     {
       "Key": "submission",
@@ -1316,7 +1316,7 @@
     },
     {
       "Key": "aquaTail",
-      "Value": "AquaTail"
+      "Value": "Nassschweif"
     },
     {
       "Key": "seedBomb",
@@ -1324,7 +1324,7 @@
     },
     {
       "Key": "psyshock",
-      "Value": "Psyshock"
+      "Value": "Psychoschock"
     },
     {
       "Key": "rockThrow",
@@ -1364,7 +1364,7 @@
     },
     {
       "Key": "shadowBall",
-      "Value": "ShadowBall"
+      "Value": "Spuk-Ball"
     },
     {
       "Key": "bulletPunch",
@@ -1372,11 +1372,11 @@
     },
     {
       "Key": "magnetBomb",
-      "Value": "MagnetBomb"
+      "Value": "Magnetbombe"
     },
     {
       "Key": "steelWing",
-      "Value": "SteelWing"
+      "Value": "Stahlfügel"
     },
     {
       "Key": "ironHead",
@@ -1396,7 +1396,7 @@
     },
     {
       "Key": "thunder",
-      "Value": "Thunder"
+      "Value": "Donner"
     },
     {
       "Key": "thunderbolt",
@@ -1412,7 +1412,7 @@
     },
     {
       "Key": "dragonPulse",
-      "Value": "DragonPulse"
+      "Value": "Drachenimpuls"
     },
     {
       "Key": "dragonClaw",
@@ -1484,7 +1484,7 @@
     },
     {
       "Key": "xScissor",
-      "Value": "XScissor"
+      "Value": "Kreuzscheren"
     },
     {
       "Key": "flameCharge",
@@ -1512,7 +1512,7 @@
     },
     {
       "Key": "hydroPump",
-      "Value": "HydroPump"
+      "Value": "Hydropumpe"
     },
     {
       "Key": "psychic",
@@ -1548,7 +1548,7 @@
     },
     {
       "Key": "solarBeam",
-      "Value": "SolarBeam"
+      "Value": "Solarstrahl"
     },
     {
       "Key": "leafBlade",
@@ -1560,7 +1560,7 @@
     },
     {
       "Key": "splash",
-      "Value": "Splash"
+      "Value": "Platscher"
     },
     {
       "Key": "acid",
@@ -1588,7 +1588,7 @@
     },
     {
       "Key": "hornAttack",
-      "Value": "HornAttack"
+      "Value": "Hornattacke"
     },
     {
       "Key": "stomp",
@@ -1616,7 +1616,7 @@
     },
     {
       "Key": "struggle",
-      "Value": "Struggle"
+      "Value": "Verzweifler"
     },
     {
       "Key": "scaldBlastoise",
@@ -1624,7 +1624,7 @@
     },
     {
       "Key": "hydroPumpBlastoise",
-      "Value": "HydroPumpBlastoise"
+      "Value": "HyropumpeTurtok"
     },
     {
       "Key": "wrapGreen",
@@ -1772,11 +1772,11 @@
     },
     {
       "Key": "zenHeadbuttFast",
-      "Value": "ZenHeadbuttFast"
+      "Value": "Zen-KopfstoßFast"
     },
     {
       "Key": "confusionFast",
-      "Value": "ConfusionFast"
+      "Value": "KonfusionFast"
     },
     {
       "Key": "poisonStingFast",
